@@ -1,0 +1,23 @@
+{
+    "name": "pronamic/wp-pronamic-eu-vat-for-easy-digital-downloads",
+    "description": "This plugin extends the Easy Digital Downloads plugin with EU VAT support.",
+    "repositories":[
+        {
+            "type":"composer",
+            "url":"https://wpackagist.org",
+            "only": [
+                "wpackagist-plugin/*"
+            ]
+        }
+    ],
+    "require-dev": {
+        "roots/wordpress": "^6.0",
+        "wpackagist-plugin/easy-digital-downloads": "^3.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "roots/wordpress-core-installer": true,
+            "composer/installers": true
+        }
+    }
+}

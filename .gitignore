@@ -1,2 +1,9 @@
 # Node.js
 /node_modules/
+
+# Composer
+/vendor/
+
+# WordPress
+/wordpress/
+/wp-content/
