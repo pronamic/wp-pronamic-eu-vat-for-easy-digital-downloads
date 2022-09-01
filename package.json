@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@wordpress/env": "^5.2.0"
+  },
+  "scripts": {
+    "wp-start": "wp-env start",
+    "wp-login": "wp-env run cli wp user one-time-login admin"
+  }
+}
