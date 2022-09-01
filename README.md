@@ -13,7 +13,7 @@ https://gitlab.com/pronamic-plugins/edd-vat
 
 https://barn2.com/wordpress-plugins/easy-digital-downloads-eu-vat/
 
-We strongly suspect that this plugin is inspired on our old Easy Digital Downloads VAT plugin. Also because one of the developers (Luigi Pulcini) follows our projects, see for example: https://github.com/pronamic/wp-documentor/issues/11.
+We strongly suspect that this plugin is inspired on our old Easy Digital Downloads VAT plugin. Also because one of the developers (Luigi Pulcini) follows our projects, see for example: https://github.com/pronamic/wp-documentor/issues/11. We have also seen many similarities in screenshots.
 
 ## Links
 
