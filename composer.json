@@ -12,12 +12,14 @@
     ],
     "require-dev": {
         "roots/wordpress": "^6.0",
-        "wpackagist-plugin/easy-digital-downloads": "^3.0"
+        "wpackagist-plugin/easy-digital-downloads": "^3.0",
+        "pronamic/wp-coding-standards": "^1.2"
     },
     "config": {
         "allow-plugins": {
             "roots/wordpress-core-installer": true,
-            "composer/installers": true
+            "composer/installers": true,
+            "dealerdirect/phpcodesniffer-composer-installer": true
         }
     }
 }

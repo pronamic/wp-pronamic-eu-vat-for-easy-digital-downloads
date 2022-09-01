@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<ruleset name="Pronamic - EU VAT for Easy Digital Downloads">
+	<file>.</file>
+
+	<rule ref="PronamicWP">
+
+	</rule>
+
+	<rule ref="WordPress.WP.I18n">
+		<properties>
+			<property name="text_domain" value="pronamic-eu-vat-for-easy-digital-downloads" />
+		</properties>
+	</rule>
+</ruleset>

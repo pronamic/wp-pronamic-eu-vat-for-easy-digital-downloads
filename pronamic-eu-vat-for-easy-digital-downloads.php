@@ -20,4 +20,5 @@
  * @author    Pronamic <info@pronamic.eu>
  * @copyright 2005-2022 Pronamic
  * @license   GPL-2.0-or-later
+ * @package   Pronamic/EuVatEddPlugin
  */
