@@ -1,5 +1,8 @@
 # Pronamic - EU VAT for Easy Digital Downloads
 
+> [!IMPORTANT]  
+> 🚨 This plugin for Easy Digital Downloads is no longer being maintained and developed. An alternative is the webshop plugin WooCommerce with good basic support for VAT.
+
 This plugin extends the Easy Digital Downloads plugin with EU VAT support.
 
 ## Alternatives
